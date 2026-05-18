@@ -19,7 +19,7 @@ ROOT = Path(__file__).parent.parent
 
 PACKAGE_NAME = "@fabric-msft/svg-icons"
 EXTRACT_DIR = ROOT / "svg-icons"
-SVG_SOURCE_DIR = ROOT / "svg-icons" / "dist" / "svg"
+SVG_SOURCE_DIR = ROOT / "svg-icons" / "svg"
 OUTPUT_DIR = ROOT / "icons"
 
 WORKLOAD_KEYWORDS = [
